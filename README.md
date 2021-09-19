@@ -1,2 +1,2 @@
 # WebHostingTest
-https://tomschimansky.github.io/webhostingtest
+https://tomschimansky.github.io/WebHostingTest/
